@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "159543717938",
+    "firebase_url": "https://ecommerce-6b2f8.firebaseio.com",
+    "project_id": "ecommerce-6b2f8",
+    "storage_bucket": "ecommerce-6b2f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159543717938:android:f34ce3b3b60781048e4c2b",
+        "android_client_info": {
+          "package_name": "ziz.org.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159543717938-4kuu88cptimbpgche1dfb5fnno567303.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOoSvxZ4-NASdM6B1ehJOSX7Ob0LLK8OM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159543717938-4kuu88cptimbpgche1dfb5fnno567303.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
