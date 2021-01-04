@@ -9,6 +9,9 @@ import androidx.recyclerview.widget.RecyclerView;
 import ziz.org.ecommerce.Interface.ItemClickListner;
 import ziz.org.ecommerce.R;
 
+/**
+ * @author abdou
+ */
 public class CartViewHolder extends RecyclerView.ViewHolder implements View.OnClickListener{
 
     public TextView txtProductName, txtProductPrice, txtProductQuantity;

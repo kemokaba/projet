@@ -115,6 +115,7 @@ public class SettingsActivity extends AppCompatActivity {
 
     /**
      * permet d'afficher les informations de l'utilisateur sur le settings Activity
+     *
      * @param profileImageView
      * @param fullNameEditText
      * @param userPhoneEditText
@@ -178,7 +179,8 @@ public class SettingsActivity extends AppCompatActivity {
     }
 
     /**
-     * Modifier uniquement les information mais pas de upload d'image profil
+     * Modifier uniquement les informations de l'utilisateur mais pas d'upload d'image profil
+     *
      */
     private void updateOnlyUserInfo()
     {
@@ -212,6 +214,8 @@ public class SettingsActivity extends AppCompatActivity {
 
     /**
      * Permet de chauvegarder l'image dans le serveur Storage de Firebase
+     *
+     * return void
      */
     private void uploadImage()
     {

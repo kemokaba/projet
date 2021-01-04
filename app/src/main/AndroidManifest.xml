@@ -25,7 +25,7 @@
         -->
         <activity
             android:name=".Emaps"
-            android:label="@string/title_activity_emaps"></activity>
+            android:label="@string/title_activity_emaps" />
 
         <activity android:name=".CartActivity" />
         <activity android:name=".ProductDetailsActivity" />

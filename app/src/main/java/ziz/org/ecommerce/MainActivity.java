@@ -76,8 +76,9 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
-    /***
+    /**
      * verifie si l'utilisateur s'est deja connecte
+     *
      * @param userPhoneKey
      * @param userPasswordKey
      */
